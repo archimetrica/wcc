@@ -1,2 +1,2 @@
 # wcc
-WooCommerce Cart Conditions Library
+WooCommerce Order Conditions Library
